@@ -1,0 +1,16 @@
+{
+  "name": "ig-pp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "instagram-scraper-api": "^1.0.1",
+    "instagram-scraping": "^1.0.17",
+    "nodemon": "^2.0.15"
+  }
+}
