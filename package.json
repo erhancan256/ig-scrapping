@@ -4,12 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-   "test": "nodemon index.js",
+    "test": "nodemon index.js",
     "start": "node index.js"
   },
   "author": "borislav qenzy",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.3",
     "instagram-scraper-api": "^1.0.1",
     "instagram-scraping": "^1.0.17",
     "nodemon": "^2.0.15"
